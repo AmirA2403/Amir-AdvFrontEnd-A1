@@ -1,0 +1,31 @@
+.user-form {
+    text-align: center;
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 20px auto;
+    max-width: 400px;
+  }
+  
+  .user-form input {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-right: 10px;
+  }
+  
+  .user-form button {
+    background-color: #28a745;
+  }
+  
+  .user-form button:hover {
+    background-color: #218838;
+  }
+  
+  .user-form p {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 10px;
+  }
+  
